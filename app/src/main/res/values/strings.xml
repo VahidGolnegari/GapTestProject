@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="nointernetdialog_turnaonmessage">اینترنت گوشی را چک نمائید</string>
+    <string name="nointerbetdialog_title">قطعی شبکه دیتا</string>
+</resources>
